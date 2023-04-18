@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @alkiro
 - 👀 I’m interested in ... live video streaming, websites, ICP W3 and NFTs
 - 🌱 I’m currently learning ... a little motoko, react, html, css
 - 💞️ I’m looking to collaborate on ... ICP projects
